@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.lyzhonghua.myjson2dart
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
